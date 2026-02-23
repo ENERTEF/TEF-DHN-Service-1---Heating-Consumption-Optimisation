@@ -7,12 +7,12 @@ We follow an approach that combines rule-based anomaly detection with baseline a
 
 Potential applications are various in District Heating Networks such as:
 
-Detection of abnormal consumption peaks without climatic justification
-Identification of low ΔT (temperature differential) indicating poor heat transfer efficiency
-Detection of high return temperatures signaling system inefficiencies
-Sensor malfunction identification (e.g., physically impossible readings)
-Hydraulic imbalances and flow anomalies
-Baseline establishment for consumption optimization and energy savings quantification
+- Detection of abnormal consumption peaks without climatic justification
+- Identification of low ΔT (temperature differential) indicating poor heat transfer efficiency
+- Detection of high return temperatures signaling system inefficiencies
+- Sensor malfunction identification (e.g., physically impossible readings)
+- Hydraulic imbalances and flow anomalies
+- Baseline establishment for consumption optimization and energy savings quantification
 
 The service enables automatic KPI generation to demonstrate value, including anomaly evolution tracking, building/substation rankings by performance, and quantified economic savings potential through efficiency improvements.
 
